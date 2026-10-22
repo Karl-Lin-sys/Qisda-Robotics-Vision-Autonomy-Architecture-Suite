@@ -1,0 +1,6 @@
+{
+  "name": "Qisda Robotics Vision & Autonomy Architecture Suite",
+  "description": "Peer-reviewed robotics vision, locomotion, and sensor-fusion architecture workbench with PyTorch/OpenCV reference implementations, Big-O complexity proofs, Canadian Toddler English explainer, and Taiwan-compliant GitHub publisher.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
